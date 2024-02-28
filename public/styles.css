@@ -1,0 +1,43 @@
+*{
+    font-family: sans-serif;
+}
+.container{
+    /* border: 1px solid black; */
+    display: flex;
+    height: 100%;
+}
+.image{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+a{
+    padding: 3px;
+    font-size: 14px;
+    margin-left: 15px;
+    text-decoration: none;
+    color: rgb(119, 115, 115);
+}
+.ending{
+    text-align: center;
+    padding: 1px;
+    font-size: 14px;
+    margin-left: 15px;
+    text-decoration: none;
+    color: rgb(119, 115, 115);
+}
+.details{
+    margin-top: 100px;
+    margin-left: 100px;
+    display: grid;
+}
+.mainheading{
+    font-weight: 900;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.sign-in{
+    font-weight: 900;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
