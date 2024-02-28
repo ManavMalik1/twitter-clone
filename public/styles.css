@@ -8,11 +8,11 @@
     height: 100%;
 }
 .image{
-    margin-left: 50px;
-    margin-top: 50px;
+    margin-left: 90px;
+    margin-top: 90px;
 }
 .footer{
-    margin-top: 60px;
+    margin-top: 170px;
 }
 a{
     padding: 3px;
@@ -31,7 +31,7 @@ a{
 }
 .details{
     margin-top: 100px;
-    margin-left: 100px;
+    margin-left: 140px;
     display: grid;
 }
 .mainheading{
