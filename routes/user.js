@@ -8,7 +8,7 @@ const name=[
     "manav",
     "hardik",
     "ronit"
-];
+]; 
 
 router.use('/',(req,res,next)=>{
     res.send(name);
